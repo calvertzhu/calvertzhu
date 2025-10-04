@@ -1,6 +1,6 @@
 # Hi, I’m Calvert Zhu
 
-*i dj between cursor prompts*
+**Solar | ML | Materials**
 
 ---
 ### About Me
